@@ -1,6 +1,8 @@
 <!-- Your title -->
 <img width="100%" src="https://user-images.githubusercontent.com/44578997/123513878-e8535000-d6b9-11eb-9346-4be9636d9fd2.gif" />
 
+![Metrics](https://metrics.lecoq.io/sumanda97?template=classic&languages=1&lines=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FBangkok)
+
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
